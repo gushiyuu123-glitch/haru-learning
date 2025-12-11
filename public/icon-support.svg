@@ -1,0 +1,18 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="140" height="140" fill="white"></rect>
+
+  <!-- Hands -->
+  <path d="M45 110C28 110 26 124 26 130H56C56 124 58 110 45 110Z" fill="#A7D1F7" stroke="#1B3557" stroke-width="3"></path>
+  <path d="M95 110C112 110 114 124 114 130H84C84 124 82 110 95 110Z" fill="#A7D1F7" stroke="#1B3557" stroke-width="3"></path>
+
+  <!-- Person -->
+  <circle cx="70" cy="70" r="14" fill="#D9E8F7" stroke="#1B3557" stroke-width="3"></circle>
+  <path d="M70 84C55 84 52 95 52 102H88C88 95 85 84 70 84Z" fill="#D9E8F7" stroke="#1B3557" stroke-width="3"></path>
+
+  <!-- Laptop -->
+  <rect x="48" y="60" width="44" height="26" rx="2" stroke="#1B3557" stroke-width="3" fill="white"></rect>
+
+  <!-- Graduation cap -->
+  <path d="M70 36L98 46L70 56L42 46L70 36Z" fill="#2A3F62"></path>
+  <line x1="98" y1="46" x2="98" y2="58" stroke="#2A3F62" stroke-width="3"></line>
+</svg>
